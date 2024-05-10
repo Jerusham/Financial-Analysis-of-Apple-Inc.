@@ -1,4 +1,4 @@
-# Business Analysis of Apple Inc.
+# Financial Analysis of Apple Inc.
 
 # Overview
 Welcome to the Business Analysis of Apple Inc. project repository! This project delves into the comprehensive analysis of Apple Inc., one of the leading technology companies globally. From historical financial performance to future forecasting using advanced analytical techniques, this project provides valuable insights into Apple's operations, market positioning, and investment potential.
